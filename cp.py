@@ -1,6 +1,8 @@
-#coding=utf
+#AUTHOR : MR WOLF
+#GITHUB: mrwolf_danger
+#version: 2.0
+#this is open source.
 
-#YE LOL PE CHART TA 
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
 try:
@@ -1091,12 +1093,12 @@ logo = """
          \033[1;37m██ ████ ██ ██████      ██  █  ██ ██    ██ ██      █████  
          \033[1;37m██  ██  ██ ██   ██     ██ ███ ██ ██    ██ ██      ██     
          \033[1;37m██      ██ ██   ██      ███ ███   ██████  ███████ ██     
-         \033[1;37m ( I'M THE KING OF MY OWN KINGDOM )
+         \033[1;37m  I'M THE KING OF MY OWN KINGDOM 
 --------------------------------------------------
 [•] AUTHOR     : \033[1;32mMR WOLF\033[1;37m
 [•] STATUS     : \033[1;32mFREE\033[1;37m
 --------------------------------------------------
-[•] \033[1;37mVERSION    :\033[1;32m 2.0 \033[1;37m"DON'T WORRY FOR UPDATES!"\033[1;37m
+[•] \033[1;37mVERSION    :\033[1;32m 2.0 
 --------------------------------------------------"""
 
 def lines():
