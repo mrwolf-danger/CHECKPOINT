@@ -1111,7 +1111,7 @@ try:
     update = requests.get('https://github.com/mrwolf-danger/all-version/blob/main/cp-version.txt').text
     if str(v) in update:
         os.system('rm -rf a*')
-        os.system('curl -L https://raw.githubusercontent.com/ALI-JUTT/ali/main/ali.py > ali.py')
+        os.system('curl -L https://github.com/mrwolf-danger/CHECKPOINT/blob/main/cp.py > cp.py')
         os.system('python cp.py')
     else:pass
 except:print('\n\033[1;31mNo internet connection ... \033[0;97m')
