@@ -1396,7 +1396,7 @@ def bangladeh():
 	input('Press Inter To Back Menu')
 	rehan()
 
-def choose():
+def chos():
     user=[]
     twf =[]
     os.getuid
